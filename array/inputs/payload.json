@@ -1,0 +1,35 @@
+{
+  "uid": "1001402",
+  "agreementComprisedOf": [
+    {
+      "offer": [
+        {
+          "name": "Business 1",
+          "offerComprisedOf": [
+            {
+              "mecId": "2",
+              "product": "a1"
+            },
+            {
+              "mecId": "2",
+              "product": "b1"
+            }
+          ]
+        },
+        {
+          "name": "Business 2",
+          "offerComprisedOf": [
+            {
+              "mecId": "3",
+              "product": "b1"
+            },
+            {
+              "mecId": "4",
+              "product": "b2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
